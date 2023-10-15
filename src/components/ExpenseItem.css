@@ -1,0 +1,9 @@
+.allocation.increase {
+    fill: green;
+}
+.allocation.decrease {
+    fill: red
+}
+.allocation:hover {
+    cursor: pointer;
+}

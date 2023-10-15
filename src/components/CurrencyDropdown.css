@@ -1,0 +1,19 @@
+.CurrencyDropdown {
+    background-color: rgb(50, 156, 121);
+    line-height: 2rem;
+    border-radius: 5px;
+    border: 1px solid rgb(34, 104, 80);
+    padding-left: 1rem;
+    color: white;
+    width: fit-content;
+    float: right;
+}
+
+.CurrencyDropdown select {
+    background-color: rgb(50, 156, 121);
+    border: none;
+    color: white;
+    line-height: 2rem;
+    height: 2rem;
+    margin-left: 1rem;
+}
